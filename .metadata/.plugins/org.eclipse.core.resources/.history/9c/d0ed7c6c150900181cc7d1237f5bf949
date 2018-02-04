@@ -1,0 +1,15 @@
+var Login={
+	init:function(){
+		$("#login").on("click",function(){
+			window.open("/index1");
+		})
+	}
+}
+$(function(){
+	Login.init();	
+})
+
+
+
+
+

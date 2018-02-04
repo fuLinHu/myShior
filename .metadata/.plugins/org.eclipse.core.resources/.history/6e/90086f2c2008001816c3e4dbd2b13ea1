@@ -1,0 +1,20 @@
+package com.stylefeng.guns.modular.system.service.impl;
+
+import com.stylefeng.guns.common.persistence.model.Resources;
+import com.stylefeng.guns.common.persistence.dao.ResourcesMapper;
+import com.stylefeng.guns.modular.system.service.IResourcesService;
+import com.baomidou.mybatisplus.service.impl.ServiceImpl;
+import org.springframework.stereotype.Service;
+
+/**
+ * <p>
+ *  服务实现类
+ * </p>
+ *
+ * @author stylefeng123
+ * @since 2018-02-02
+ */
+@Service
+public class ResourcesServiceImpl extends ServiceImpl<ResourcesMapper, Resources> implements IResourcesService {
+
+}

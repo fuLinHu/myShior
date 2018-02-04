@@ -1,0 +1,19 @@
+var Login={}
+debugger
+Login.init=function(){
+	alert(window.location.href+"   init");
+	$("#login").on("click",function(){
+		alert(window.location.href);
+		window.location="/css/login/login.css";
+	})
+}
+$("#login").on("click",function(){
+	alert(window.location.href);
+	window.location="/css/login/login.css";
+})
+//Login.init();
+
+
+
+
+

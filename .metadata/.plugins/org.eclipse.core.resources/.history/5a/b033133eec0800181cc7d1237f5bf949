@@ -1,0 +1,10 @@
+package com.fu.shior.controller;
+
+import org.springframework.stereotype.Controller;
+
+@Controller
+public class LoginController {
+	public String toLogin(){
+		return "login";
+	}
+}

@@ -1,0 +1,18 @@
+package com.fu.shior.service;
+
+import java.util.List;
+
+import com.baomidou.mybatisplus.service.IService;
+import com.fu.shior.model.Resources;
+
+/**
+ * <p>
+ *  服务类
+ * </p>
+ *
+ * @author stylefeng123
+ * @since 2018-02-02
+ */
+public interface IResourcesService extends IService<Resources> {
+
+}

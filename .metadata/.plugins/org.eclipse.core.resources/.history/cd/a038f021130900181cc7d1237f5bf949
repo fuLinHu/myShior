@@ -1,0 +1,16 @@
+var Login={
+	init:function(){
+		$("#login").on("click",function(){
+			alert(window.location.href);
+			window.location="/index";
+		})
+	}
+}
+$(function(){
+	Login.init();	
+})
+
+
+
+
+

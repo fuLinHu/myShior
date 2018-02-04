@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="org.springframework.data.annotation.Id"/>
+<fullyQualifiedTypeName name="com.fu.shior.model.Role"/>
+<fullyQualifiedTypeName name="at.pollux.thymeleaf.shiro.dialect.ShiroDialect"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="com.fu.shior.model.Resources"/>
+<fullyQualifiedTypeName name="com.fu.shior.mapper.ResourcesMapper"/>
+<fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
+<fullyQualifiedTypeName name="org.crazycake.shiro.RedisCacheManager"/>
+<fullyQualifiedTypeName name="org.springframework.stereotype.Controller"/>
+<fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RequestMapping"/>
+<fullyQualifiedTypeName name="com.fu.shior.model.User"/>
+<fullyQualifiedTypeName name="org.apache.shiro.subject.Subject"/>
+<fullyQualifiedTypeName name="org.apache.shiro.SecurityUtils"/>
+<fullyQualifiedTypeName name="org.apache.shiro.authc.UsernamePasswordToken"/>
+<fullyQualifiedTypeName name="org.apache.shiro.authc.LockedAccountException"/>
+<fullyQualifiedTypeName name="org.apache.shiro.authc.AuthenticationException"/>
+</qualifiedTypeNameHistroy>

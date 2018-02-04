@@ -1,0 +1,39 @@
+package com.fu.shior.service.impl;
+
+
+import java.util.List;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
+
+import com.baomidou.mybatisplus.service.impl.ServiceImpl;
+import com.fu.shior.mapper.ResourcesMapper;
+import com.fu.shior.model.Resources;
+import com.fu.shior.service.IResourcesService;
+
+/**
+ * <p>
+ *  服务实现类
+ * </p>
+ *
+ * @author stylefeng123
+ * @since 2018-02-02
+ */
+@Service
+public class ResourcesServiceImpl extends ServiceImpl<ResourcesMapper, Resources> implements IResourcesService {
+	@Autowired
+	private ResourcesMapper mapper;
+	@Override
+	public List<Resources> findAll() {
+		return mapper.findAll();
+	}
+
+	@Override
+	public List<Resources> loadUserResources(Map<> columnMap) {
+		return mapper.selectByMap(columnMap);
+	}
+
+	
+
+     
+}

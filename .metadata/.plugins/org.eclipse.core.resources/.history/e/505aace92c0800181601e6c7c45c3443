@@ -1,0 +1,17 @@
+package com.fu.shior.service;
+
+
+import com.baomidou.mybatisplus.service.IService;
+import com.fu.shior.model.User;
+
+/**
+ * <p>
+ *  服务类
+ * </p>
+ *
+ * @author stylefeng123
+ * @since 2018-02-02
+ */
+public interface IUserService extends IService<User> {
+
+}

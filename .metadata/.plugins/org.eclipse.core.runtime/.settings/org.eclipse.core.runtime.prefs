@@ -1,0 +1,7 @@
+content-types/org.eclipse.core.runtime.text/charset=utf-8
+content-types/org.eclipse.jdt.core.javaClass/charset=utf-8
+content-types/org.eclipse.jdt.core.javaProperties/charset=utf-8
+content-types/org.eclipse.wst.html.core.htmlsource/charset=utf-8
+content-types/org.eclipse.wst.html.core.htmlsource/file-extensions=yaml,yml
+content-types/org.springframework.ide.eclipse.applicationProperties/charset=utf-8
+eclipse.preferences.version=1

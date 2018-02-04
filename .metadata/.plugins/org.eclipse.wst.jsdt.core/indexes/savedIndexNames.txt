@@ -1,0 +1,8 @@
+INDEX VERSION 1.3+D:\guns\guns\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2814012843.index
+3565567669.index
+404023240.index
+121941009.index
+264826061.index
+973157552.index
+472322143.index

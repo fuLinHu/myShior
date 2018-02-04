@@ -1,0 +1,21 @@
+package com.fu.shior.service.impl;
+
+
+import org.springframework.stereotype.Service;
+
+import com.baomidou.mybatisplus.service.impl.ServiceImpl;
+import com.fu.shior.model.Resources;
+import com.fu.shior.service.IResourcesService;
+
+/**
+ * <p>
+ *  服务实现类
+ * </p>
+ *
+ * @author stylefeng123
+ * @since 2018-02-02
+ */
+@Service
+public class ResourcesServiceImpl extends ServiceImpl<ResourcesMapper, Resources> implements IResourcesService {
+
+}
